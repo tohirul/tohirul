@@ -78,7 +78,7 @@ I am a **backend-focused full-stack engineer** building **scalable, high-perform
 - State & form validation (Zod)
 - SEO & performance-aware rendering  
 
-**Stack:** `Next.js` · `React` · `MUI` · `TypeScript`, `Node.js`, `Express.js`, `Prisma`, `PostgreSQL` · `MongoDB` · `SQL`
+**Stack:** `Next.js` · `React` · `MUI` · `Tailwind` · `TypeScript`, `Node.js`, `Express.js`, `Prisma`, `PostgreSQL` · `MongoDB` · `SQL`
 
 ---
 
