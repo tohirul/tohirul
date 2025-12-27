@@ -1,8 +1,6 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <h1>👋 Hi, I'm Tohirul Islam (Tohir)</h1>
-  <h3> Full-Stack Web Developer | Backend-Focused Developer | SysAdmin | ML Enthusiast </h3>
-  <img src="https://c.tenor.com/3JMI7vR9gVYAAAAC/coding.gif" width="250" alt="Coding Animation"/>
+  <img src="https://raw.githubusercontent.com/tohirul/tohirul/main/assets/tohirul_banner.svg" alt="Profile Banner" />
 </p>
 
 ---
@@ -40,6 +38,18 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+</div>
+
+---
+## My GitHub Stats
+
+<div align="center">  
+  
+  <img src="https://stats.saviru.me/api?username=tohirul&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&locale=en&hide_border=true&order=1&theme=watchdog_gradient35" height="150" alt="stats graph"  />
+  <img src="https://stats.saviru.me/api/top-langs?username=tohirul&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true&order=2&theme=watchdog_gradient45" height="150" alt="languages graph"  />
+  <img src="https://saviru-githubstreak.vercel.app?user=Saviru&theme=watchdog-gradient&hide_border=true" height="150" alt="GitHub Streak" />
+  <br>
+  <img src="https://nirzak-trophies.vercel.app/?username=tohirul&theme=radical&no-frame=true&column=-1" height="150" alt="trophy graph"  />
 </div>
 
 ---

@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#3b0a24"/>
+    </linearGradient>
+
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#ffffff" opacity="0.018"/>
+    </pattern>
+
+    <!-- Typing mask widened to cover full string -->
+    <clipPath id="typeMask">
+      <rect x="180" y="148" width="0" height="36">
+        <animate
+          attributeName="width"
+          from="0"
+          to="900"
+          dur="4.5s"
+          begin="0.5s"
+          fill="freeze"
+          id="typingAnim"/>
+      </rect>
+    </clipPath>
+
+    <style>
+      @media (prefers-reduced-motion: reduce) {
+        .animate { display: none; }
+        .static { display: inline; }
+      }
+      @media (prefers-reduced-motion: no-preference) {
+        .static { display: none; }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#scan)"/>
+
+  <!-- Subtle wave -->
+  <path class="animate"
+        d="M0 242 Q300 228 600 258 T1200 242 V300 H0 Z"
+        fill="#38bdf8" opacity="0.045">
+    <animateTransform attributeName="transform"
+                      type="translate"
+                      from="0 0"
+                      to="-140 0"
+                      dur="44s"
+                      repeatCount="indefinite"
+                      calcMode="linear"/>
+  </path>
+
+  <!-- Header -->
+  <text x="600" y="92"
+        text-anchor="middle"
+        font-family="JetBrains Mono, monospace"
+        font-size="38"
+        fill="#f8fafc"
+        font-weight="700">
+    &gt; Hi, I'm Tohirul Islam (Tohir)
+  </text>
+
+  <!-- Command -->
+  <text x="600" y="128"
+        text-anchor="middle"
+        font-family="JetBrains Mono, monospace"
+        font-size="16"
+        fill="#cbd5e1">
+    $ whoami
+  </text>
+
+  <!-- Typed line -->
+  <g class="animate" clip-path="url(#typeMask)">
+    <text x="180" y="172"
+          font-family="JetBrains Mono, monospace"
+          font-size="16"
+          fill="#e5e7eb">
+      Full-Stack Engineer · Backend Specialist · Systems Administrator · ML Enthusiast
+    </text>
+  </g>
+
+  <!-- Static fallback -->
+  <text class="static"
+        x="180" y="172"
+        font-family="JetBrains Mono, monospace"
+        font-size="16"
+        fill="#e5e7eb">
+    Full-Stack Engineer · Backend Specialist · Systems Administrator · ML Enthusiast
+  </text>
+
+  <!-- Cursor AFTER full text -->
+  <text class="animate"
+        x="980" y="172"
+        font-family="JetBrains Mono, monospace"
+        font-size="16"
+        fill="#e5e7eb"
+        opacity="0">
+    ▮
+    <set attributeName="opacity" to="1" begin="typingAnim.end"/>
+    <animate attributeName="opacity"
+             values="1;0;1"
+             dur="1.2s"
+             begin="typingAnim.end"
+             repeatCount="indefinite"/>
+  </text>
+
+</svg>
