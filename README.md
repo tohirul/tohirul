@@ -8,16 +8,18 @@
 ## 🧠 About Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20FullStack-blueviolet?style=for-the-badge&logo=visual-studio-code" alt="Focus"/>
-  <img src="https://img.shields.io/badge/OS-Linux-yellowgreen?style=for-the-badge&logo=linux" alt="OS"/>
-  <img src="https://img.shields.io/badge/Workflow-Terminal-purple?style=for-the-badge&logo=gnu-bash" alt="Terminal"/>
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Full--Stack-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OS-Linux-yellowgreen?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Workflow-Terminal--First-purple?style=for-the-badge&logo=gnu-bash" />
 </p>
 
-- 🔭 Currently working with **Next.js 15**, **Node.js**, and **Prisma**  
-- ⚡ Building **scalable, high-performance applications**  
-- 🐧 Linux (Debian 12) + terminal-first workflow  
-- 💼 Focused on **clean architecture**, modular code, and maintainable systems  
-- 🎯 Specializing in **backend & full-stack solutions**  
+I am a **backend-focused full-stack engineer** building **scalable, high-performance systems** with a strong emphasis on **clean architecture, correctness, and long-term maintainability**.
+
+- 🔭 Working with **Node.js**, **Next.js (App Router)**, **Prisma ORM** and **Raw SQL**
+- ⚡ Designing systems that scale cleanly under real-world constraints
+- 🐧 Linux (Debian 12 / Fedora 43 / Ubuntu 24.04) terminal-first workflow
+- 💼 Strong focus on **architecture, data modeling, and performance**
+- 🎯 Specialization: **Backend & system-driven full-stack solutions**
 
 ---
 
@@ -171,5 +173,5 @@
 
 ### ⚡ Fun Fact
 <p align="center">
-  I build software **deliberately, cleanly, and with purpose** — every line matters.
+  Most bugs are system design problems — I try to solve them before they exist.
 </p>
