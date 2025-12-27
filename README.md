@@ -16,7 +16,7 @@
 I am a **backend-focused full-stack engineer** building **scalable, high-performance systems** with a strong emphasis on **clean architecture, correctness, and long-term maintainability**.
 
 - 🔭 Working with **Node.js**, **React.js**, **Next.js**, **Prisma ORM** and **Raw SQL**
-- ⚡ Designing systems that scale cleanly under real-world constraints
+- ⚡ Building systems that scale cleanly under real-world constraints
 - 🐧 Linux (Debian 12 / Fedora 43 / Ubuntu 24.04) terminal-first workflow
 - 💼 Strong focus on **architecture, data modeling, and performance**
 - 🎯 Specialization: **Backend & system-driven full-stack solutions**
