@@ -67,7 +67,7 @@ I am a **backend-focused full-stack engineer** building **scalable, high-perform
 - Data integrity, migrations, indexing
 - Performance & query optimization  
 
-**Stack:** `Node.js` · `Prisma` · `PostgreSQL` · `MongoDB`
+**Stack:** `Node.js` · `Express.js` · `Prisma` · `PostgreSQL` · `MongoDB`
 
 ---
 
