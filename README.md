@@ -67,7 +67,7 @@ I am a **backend-focused full-stack engineer** building **scalable, high-perform
 - Data integrity, migrations, indexing
 - Performance & query optimization  
 
-**Stack:** `Typescript` · `Node.js` · `Express.js` · `Prisma` · `PostgreSQL` · `MongoDB`
+**Stack:** `Typescript` · `Node.js` · `Express.js` · `Prisma` · `PostgreSQL` · `MongoDB` · `SQL`
 
 ---
 
@@ -78,7 +78,7 @@ I am a **backend-focused full-stack engineer** building **scalable, high-perform
 - State & form validation (Zod)
 - SEO & performance-aware rendering  
 
-**Stack:** `Next.js` · `React` · `MUI` · `TypeScript`, `Node.js`, `Express.js`, `Prisma`, `PostgreSQL`
+**Stack:** `Next.js` · `React` · `MUI` · `TypeScript`, `Node.js`, `Express.js`, `Prisma`, `PostgreSQL` · `MongoDB` · `SQL`
 
 ---
 
