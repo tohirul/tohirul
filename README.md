@@ -63,7 +63,7 @@
 - State & form validation (Zod)
 - SEO & performance-aware rendering  
 
-**Stack:** `Next.js` · `React` · `MUI` · `TypeScript`
+**Stack:** `Next.js` · `React` · `MUI` · `TypeScript`, `Node.js`, `Express.js`, `Prisma`, `PostgreSQL`
 
 ---
 
@@ -85,7 +85,7 @@
 - Trade-off driven decisions
 - Long-term maintainability  
 
-**Principles:** Simplicity · Predictability · Scale
+**Principles:** Simplicity · Predictability · Scalability
 
 ---
 
