@@ -41,80 +41,72 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
+
 ---
+## ⚙️ What I Build (Core Capabilities)
 
-## 🚀 Featured Projects
+### 🧠 Backend Systems
+- Role-based authentication (RBAC, JWT, sessions)
+- REST & API-first architecture
+- Prisma-driven relational modeling
+- Data integrity, migrations, indexing
+- Performance & query optimization  
 
-<p align="center">
-  <!-- Project 1 -->
-  <a href="https://github.com/tohirul/inventory-system" style="margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/Tohirul-islam/project-gifs/main/school-dashboard.gif" width="300" alt="Inventory / School Management"/>
-  </a>
-  <!-- Project 2 -->
-  <a href="https://github.com/tohirul/analytics-dashboard" style="margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/Tohirul-islam/project-gifs/main/analytics-dashboard.gif" width="300" alt="Data Analytics Dashboard"/>
-  </a>
-  <!-- Project 3 -->
-  <a href="https://github.com/tohirul/crypto-tracker">
-    <img src="https://raw.githubusercontent.com/Tohirul-islam/project-gifs/main/crypto-tracker.gif" width="300" alt="Crypto Tracking App"/>
-  </a>
-</p>
-
-<p align="center">
-  <strong>Click on any project image to view the repo!</strong>
-</p>
-
-### 1️⃣ Inventory / School Management System
-**Tech:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)  
-![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=flat&logo=prisma&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
-
-**Key Features:**  
-- 🛡️ Role-based **authentication & authorization**  
-- 🗂️ Scalable **Prisma + PostgreSQL schema**  
-- ⚡ Full **REST API architecture**  
-- 🎯 Real-world application: Users, Roles, Attendance, Finance  
-
-**[View Repo](https://github.com/tohirul/inventory-system)**
+**Stack:** `Node.js` · `Prisma` · `PostgreSQL` · `MongoDB`
 
 ---
 
-### 2️⃣ Data Analytics Dashboard
-**Tech:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)  
-![Charts.js](https://img.shields.io/badge/Charts.js-FF6384?style=flat)  
+### ⚡ Full-Stack Applications
+- Next.js App Router (v15)
+- Server Actions & API routes
+- Component-driven UI architecture
+- State & form validation (Zod)
+- SEO & performance-aware rendering  
 
-**Key Features:**  
-- 📊 Interactive **MUI DataGrid + charts**  
-- 💾 CSV / PDF export functionality  
-- 🌡️ Heatmaps & dual-axis graphs for **data visualization**  
-- ⚡ Optimized for **performance & usability**  
-
-**[View Repo](https://github.com/tohirul/analytics-dashboard)**
+**Stack:** `Next.js` · `React` · `MUI` · `TypeScript`
 
 ---
 
-### 3️⃣ Crypto Tracking App *(In Progress)*
-**Tech:**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+### 📊 Data-Heavy Dashboards
+- Large datasets with MUI DataGrid
+- CSV / PDF export pipelines
+- Heatmaps & dual-axis visualizations
+- Business-oriented KPIs
+- UX optimized for analysts  
 
-**Key Features:**  
-- 💹 Real-time tracking of multiple cryptocurrencies  
-- 🔍 Advanced filtering & comparisons  
-- 📈 Analytics-first — no transactions  
-- 🚀 Planned features: notifications & portfolio insights  
-
-**[View Repo](https://github.com/tohirul/crypto-tracker)**
+**Focus:** Accuracy · Performance · Clarity
 
 ---
 
+### 🧩 System Design Mindset
+- Clean architecture boundaries
+- Modular, testable codebases
+- Scalable schema design
+- Trade-off driven decisions
+- Long-term maintainability  
+
+**Principles:** Simplicity · Predictability · Scale
+
+---
+
+## 🔍 How I Work
+- Design **before** implementation  
+- Optimize **after correctness**  
+- Prefer clarity over cleverness  
+- Build for humans, not frameworks  
+
+---
+
+## 🧪 Currently Exploring
+```txt
+• Advanced Prisma patterns
+• High-scale PostgreSQL schemas
+• Server-heavy Next.js architectures
+• Analytics-driven UI design
+• Background jobs & queues
+```
+
+---
 
 ## 🌐 Dev Cards & Stats
 
