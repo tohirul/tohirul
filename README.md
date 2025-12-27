@@ -98,13 +98,12 @@
 ---
 
 ## 🧪 Currently Exploring
-```txt
-• Advanced Prisma patterns
-• High-scale PostgreSQL schemas
-• Server-heavy Next.js architectures
-• Analytics-driven UI design
-• Background jobs & queues
-```
+- Advanced Prisma patterns
+- High-scale PostgreSQL schemas
+- Server-heavy Next.js architectures
+- Analytics-driven UI design
+- Background jobs & queues
+
 
 ---
 
