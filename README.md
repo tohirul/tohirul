@@ -1,11 +1,13 @@
-<!-- Animated Header + Wave -->
-<div align="center">
-  <h1 align="center">👋 Hi, I'm Tohirul Islam (Tohir)</h1>
-  <h3 align="center">Full-Stack Web Developer | MERN Specialist | Backend-Focused Engineer</h3>
-  <img src="https://raw.githubusercontent.com/Tohirul-islam/animated-assets/main/coding.gif" width="300"/>
-  <br>
-  <svg viewBox="0 0 1440 100" xmlns="http://www.w3.org/2000/svg"><path fill="#0d1117" d="M0,64L80,85.3C160,107,320,149,480,144C640,139,800,85,960,69.3C1120,53,1280,75,1360,85.3L1440,96L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z"></path></svg>
-</div>
+<!-- HEADER -->
+<p align="center">
+  <h1>👋 Hi, I'm Tohirul Islam (Tohir)</h1>
+  <h3>Full-Stack Web Developer | MERN Specialist | Backend-Focused Engineer</h3>
+  <img src="https://raw.githubusercontent.com/Tohirul-islam/animated-assets/main/coding.gif" width="250"/>
+</p>
+
+<!-- <p align="center"> -->
+  <!-- <img src="https://raw.githubusercontent.com/Tohirul-islam/animated-assets/main/wave-divider.svg" width="100%"/> -->
+<!-- </p> -->
 
 ---
 
@@ -19,7 +21,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
@@ -39,48 +41,93 @@
 
 ---
 
+
 ## 🚀 Featured Projects
 
 ### 1️⃣ Inventory / School Management Systems
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tohirul-islam/project-gifs/main/school-dashboard.gif" width="600"/>
+</p>
 - Role-based **authentication & authorization**  
 - **Prisma + PostgreSQL** for scalable schema design  
 - Full **REST API architecture**  
 - Real-world modeling: Users, Roles, Attendance, Finance  
 
 ### 2️⃣ Data Analytics Dashboards
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tohirul-islam/project-gifs/main/analytics-dashboard.gif" width="600"/>
+</p>
 - **MUI DataGrid + charts**  
 - CSV / PDF export functionality  
 - Heatmaps, dual-axis graphs, performance-focused rendering  
 
 ### 3️⃣ Crypto Tracking App *(In Progress)*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tohirul-islam/project-gifs/main/crypto-tracker.gif" width="600"/>
+</p>
 - Real-time tracking of multiple coins  
 - Advanced filtering & comparisons  
 - Analytics-first approach (no transactions)
 
 ---
 
-## 📈 GitHub Stats & Badges
+## 🌐 Dev Community
 
-<div align="center">
+<p align="center">
+  <a href="https://app.daily.dev/tohirul">
+    <img src="https://api.daily.dev/devcards/v2/x6SttlUrsZhcIRczmqUk2.png?type=default&r=a72" width="356" alt="Tohirul Islam's Dev Card"/>
+  </a>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tohirul&layout=compact&theme=react)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tohirul&show_icons=true&theme=react)
 
-</div>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tohirul&layout=compact&theme=react" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tohirul&show_icons=true&theme=react" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tohirul&theme=react" alt="GitHub Streak"/>
+</p> -->
+
+---
+
+## 🏆 Competitive Coding & Q&A
+
+<p align="center" width="200px">
+  <a href="https://leetcode.com/u/tohirul/" width="100%">
+    <img src="https://leetcard.jacoblin.cool/tohirul?theme=dark" width="100%" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+
+<p align="center" width="200px">
+<a href="https://github.com/kurt-liao/so-stats" width="100%">
+  <img width="100%"
+    src="https://so-stats-kurt-liao.vercel.app/api?user=16414128"
+  />
+</a>
+</p>
 
 ---
 
 ## 📬 Connect with Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tohirul)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_tohirulislam)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/tohirul">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/_tohirulislam">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:tohirulislam@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="mailto:tohirulislam@gmail.com">
+    <img src="https://img.shields.io/badge/Hire%20Me-FF69B4?style=for-the-badge&logo=rocket" alt="Hire Me"/>
+  </a>
+</p>
 
 ---
 
 ### ⚡ Fun Fact
-> I build software **deliberately, cleanly, and with purpose**—every line matters.
-
+> I build software **deliberately, cleanly, and with purpose** — every line matters.
