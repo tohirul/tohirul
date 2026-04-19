@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Workflow-Terminal--First-purple?style=for-the-badge&logo=gnu-bash" />
 </p>
 
-I am a **backend-focused full-stack engineer** building **scalable, high-performance systems** with a strong emphasis on **clean architecture, correctness, and long-term maintainability**.
+I am a **backend-focused full-stack developer** building **scalable, high-performance systems** with a strong emphasis on **clean architecture, correctness, and long-term maintainability**.
 
 - 🔭 Working with **Node.js**, **React.js**, **Next.js**, **Prisma ORM** and **Raw SQL**
 - ⚡ Building systems that scale cleanly under real-world constraints
