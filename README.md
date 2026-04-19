@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/tohirul/tohirul/main/assets/tohirul_banner.svg" alt="Profile Banner" />
-</p>
+</p> -->
 
 ---
 
